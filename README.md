@@ -1,4 +1,4 @@
 # test_repo
-For testing
-And only for that.
+For testing,
+and only for that.
 That's all.
